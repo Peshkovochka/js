@@ -4,7 +4,7 @@
 const toPassTests = function(){
     alert("Прежде, чем выполнить это задание у тебя должно быть сдано пять тестов!");
 };
-(toPassTests();
+toPassTests();
 
 const toPassTests2 = () => alert("Прежде, чем выполнить это задание у тебя должно быть сдано пять тестов!");
 toPassTests2();
